@@ -1,2 +1,1 @@
-# ReadMe
-てんしょく用
+# GAS-projects
