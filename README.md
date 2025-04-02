@@ -5,3 +5,5 @@
         ：スプレッドシートのデータを元にメールを自動送信するGAS 
 - `validate_address/script.gs`
         ：DMの住所チェックを行うGAS
+- `validate_amagifu/script.gs`
+        ：Amazonギフト券のメール本文を抽出するGAS
